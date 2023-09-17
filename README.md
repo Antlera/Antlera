@@ -1,1 +1,7 @@
-![Metrics](https://metrics.lecoq.io/Antlera?template=classic&repositories.forks=true&repositories.affiliations=owner%2C%20collaborator%2C%20organization%20member&base.activity=0&base.community=0&stars=1&repositories=1&notable=1&activity=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner%2C%20collaborator%2C%20organization%20member&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=2&repositories=false&repositories.pinned=3&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FHong_Kong)
+👋 Hi there, I'm Antlera, a student at Sichuan University with a broad interest in computer science, currently diving deep into distributed systems, machine learning/deep learning, cloud computing, and systems performance optimization.
+
+🔧 I’m currently building DLRover, an automatic distributed deep learning system. If you are interested, welcome to join us!
+
+🌐 You can find more about me on my personal website.
+
+✉️ And if you want to contact me, please email my mailbox: tafflann@outlook.com.
