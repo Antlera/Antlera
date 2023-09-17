@@ -1,4 +1,6 @@
-👋 Hi there, I'm Antlera, a student at Sichuan University with a broad interest in computer science, currently diving deep into distributed systems, machine learning/deep learning, cloud computing, and systems performance optimization.
+👋 Hi there, I'm Antlera, a student at Sichuan University. Welcome to my GitHub pages!!!
+
+🔍 I’m currently diving deep into research on distributed systems, machine learning/deep learning, cloud computing, and systems performance optimization.
 
 🔧 I’m currently building DLRover, an automatic distributed deep learning system. If you are interested, welcome to join us!
 
