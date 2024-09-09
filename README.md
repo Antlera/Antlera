@@ -1,4 +1,4 @@
-👋 Hi there, I'm Antlera, a student at University of Virginia (UVA). Welcome to my GitHub pages!!!
+👋 Hi there, I'm Antlera, a PhD student at University of Virginia (UVA). Welcome to my GitHub pages!!!
 
 🔍 I’m currently diving deep into research on distributed systems, machine learning/deep learning, cloud computing, and systems performance optimization.
 
