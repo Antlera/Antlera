@@ -6,4 +6,4 @@
 
 🌐 You can find more about me on [my personal website](https://antlera.github.io/).
 
-✉️ And if you want to contact me, please email my mailbox: tafflan2001@gmail.com.
+✉️ And if you want to contact me, please email my mailbox: erc8gx@virginia.edu.
