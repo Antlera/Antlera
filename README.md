@@ -4,7 +4,7 @@
 
 🚀 I’m deeply obsessed with performance optimization — always looking for ways to push systems to their limits!
 
-🔧 I’m currently building [DLRover](https://github.com/intelligent-machine-learning/dlrover), an automatic distributed deep learning system. If you are interested, welcome to join us!
+🔧 I’m now working on [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) and [DLRover](https://github.com/intelligent-machine-learning/dlrover) — building high-performance, distributed deep learning systems. If you’re interested, feel free to join us!
 
 🌐 You can find more about me on [my personal website](https://antlera.github.io/).
 
